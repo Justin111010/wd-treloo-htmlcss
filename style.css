@@ -477,10 +477,61 @@ color: dodgerblue;
     margin-top: 40px;
 }
 .contactus p{
-    font-size: 12px;
+    font-size: 16px;
     font-family: 'Poppins',sans-serif;
     color: white;
     padding-top: 25px;
     margin-top: 50px;
-    margin-left: 40px;
+    margin-left: 30px;
+}
+
+.gbumi{
+    margin-left: 390px;
+    margin-top: 350px;
+}
+.gbumi h2{
+    color: white;
+    font-size: 46px;
+    font-family: 'Poppins',sans-serif;
+    margin-left: -350px;
+    text-align: center;
+    margin-top: -350px;
+    font-weight: 550;
+}
+.regis{
+    background-color: white;
+    width: 220px;
+    height: 80px;
+    border-radius: 30px;
+margin-left: 460px;
+position: relative;
+}
+.regis p{
+    color: dodgerblue;
+    font-size: 20px;
+    font-family: 'Poppins',sans-serif;
+    padding-top: 25px;
+    margin-left: 32px;
+    font-weight: 600;
+}
+.cr p{
+     color: lightslategray;
+    font-size: 20px;
+    font-family: 'Poppins',sans-serif;
+    margin-top: 200px;
+    margin-left: 400px;
+    font-weight: 500;
+    display: flex;
+}
+
+.cr ul{
+   color: rgb(83, 86, 90);
+    font-size: 25px;
+    font-family: 'Poppins',sans-serif;
+    margin-top: -55px;
+    margin-left: 1200px;
+    font-weight: 550;
+    display: flex;
+    list-style-type: none;
+    gap: 60px;
 }
