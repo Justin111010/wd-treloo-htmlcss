@@ -252,6 +252,102 @@ body{
     margin-bottom: 80px;
     margin-top: 4px;
 }
+.rate{
+    background-color:white;
+    width: 60px;
+    height: 25px;
+    margin-top: -320px;
+    margin-left: 200px;
+    position: relative;
+    border-radius: 10px;
+}
+.rate p{
+     color: black;
+    font-size: 16px;
+    font-family: 'Poppins',sans-serif;
+    font-weight: 500;
+    margin-left: 27px;
+    display: flex;
+    margin-top: -20px;
+}
+.star
+{
+    color: rgb(255, 217, 0);
+    display: flex;
+    margin-left: 6px;
+}
+.rate1{
+    background-color:white;
+    width: 60px;
+    height: 25px;
+    margin-top: -320px;
+    margin-left: 200px;
+    position: relative;
+    border-radius: 10px;
+}
+.rate1 p1{
+     color: black;
+    font-size: 16px;
+    font-family: 'Poppins',sans-serif;
+    font-weight: 500;
+    margin-left: 27px;
+    display: flex;
+    margin-top: -20px;
+}
+.star
+{
+    color: rgb(255, 217, 0);
+    display: flex;
+    margin-left: 6px;
+}
+.rate2{
+    background-color:white;
+    width: 60px;
+    height: 25px;
+    margin-top: -320px;
+    margin-left: 200px;
+    position: relative;
+    border-radius: 10px;
+}
+.rate2 p2{
+     color: black;
+    font-size: 16px;
+    font-family: 'Poppins',sans-serif;
+    font-weight: 500;
+    margin-left: 27px;
+    display: flex;
+    margin-top: -20px;
+}
+.star
+{
+    color: rgb(255, 217, 0);
+    display: flex;
+    margin-left: 6px;
+}
+.rate3{
+    background-color:white;
+    width: 60px;
+    height: 25px;
+    margin-top: -320px;
+    margin-left: 200px;
+    position: relative;
+    border-radius: 10px;
+}
+.rate3 p3{
+     color: black;
+    font-size: 16px;
+    font-family: 'Poppins',sans-serif;
+    font-weight: 500;
+    margin-left: 27px;
+    display: flex;
+    margin-top: -20px;
+}
+.star
+{
+    color: rgb(255, 217, 0);
+    display: flex;
+    margin-left: 6px;
+}
 .box1 img{
  margin-left: 9px;
     margin-top: 10px;
