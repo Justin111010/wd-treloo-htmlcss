@@ -79,7 +79,7 @@ body{
     display: flex;
 }
 body{
-    background-color: rgb(224, 224, 224);
+    background-color: rgb(241, 241, 241);
 }
 .item1{
     background-color: white;
@@ -362,4 +362,125 @@ body{
     color: lightslategray;
     margin-top: -22px;
     margin-left: 33px;
+}
+
+.orang{
+    margin-left: 380px;
+    margin-top: 200px;
+   position: relative;
+   display: flex;
+}
+
+.b1{
+    background-color: white;
+    width: 180px;
+    height: 100px;
+    border-radius: 30px;
+    margin-left: 770px;
+    margin-top: -700px;
+    position: absolute;
+    display: flex;
+}
+.b1 h1{
+color: dodgerblue;
+ font-size: 35px;
+    font-family: 'Poppins',sans-serif;
+    margin-left: 54px;
+    margin-top: 14px;
+}
+
+.b1 h5{
+     color: black;
+ font-size: 20px;
+    font-family: 'Poppins',sans-serif;
+     margin-left: -104px;
+     font-weight: 400;
+    margin-top: 52px;
+}
+
+.b2{
+    background-color: white;
+    width: 180px;
+    height: 100px;
+    border-radius: 30px;
+    margin-left: 770px;
+    margin-top: -200px;
+    position: absolute;
+    display: flex;
+}
+.b2 h1{
+color: dodgerblue;
+ font-size: 35px;
+    font-family: 'Poppins',sans-serif;
+    margin-left: 54px;
+    margin-top: 14px;
+}
+
+.b2 h5{
+     color: black;
+ font-size: 20px;
+    font-family: 'Poppins',sans-serif;
+     margin-left: -78px;
+     font-weight: 400;
+    margin-top: 56px;
+}
+
+.b3{
+    background-color: white;
+    width: 180px;
+    height: 100px;
+    border-radius: 30px;
+    margin-left: 300px;
+    margin-top: -450px;
+    position: absolute;
+    display: flex;
+}
+.b3 h1{
+color: dodgerblue;
+ font-size: 35px;
+    font-family: 'Poppins',sans-serif;
+    margin-left: 39px;
+    margin-top: 14px;
+}
+
+.b3 h5{
+     color: black;
+ font-size: 20px;
+    font-family: 'Poppins',sans-serif;
+     margin-left: -98px;
+     font-weight: 400;
+    margin-top: 56px;
+}
+.judul1{
+     color: black;
+ font-size: 40px;
+  font-weight: 600;
+    font-family: 'Poppins',sans-serif;
+     margin-left: 980px;
+    margin-top: -675px;
+}
+
+.subjudul{
+     color: lightslategray;
+ font-size: 20px;
+  font-weight: 300;
+    font-family: 'Poppins',sans-serif;
+     margin-left: 980px;
+    margin-top: 20px;
+}
+.contactus{
+    background-color: dodgerblue;
+    width: 150px;
+    height: 70px;
+    border-radius: 10px;
+      margin-left: 980px;
+    margin-top: 40px;
+}
+.contactus p{
+    font-size: 12px;
+    font-family: 'Poppins',sans-serif;
+    color: white;
+    padding-top: 25px;
+    margin-top: 50px;
+    margin-left: 40px;
 }
